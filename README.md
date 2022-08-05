@@ -1,5 +1,6 @@
 # proyecto-utn-davidbaca - 
 MoviesDB by David Baca
+  
   Para este proyecto quise realizar una app sencilla que sea capaz de registrar nombres de películas y series,
 calificarlas y principalmente guardar en que plataforma se encuentra, ya que muchas veces me pasa que quiero
 volver a ver una serie o película y son tantas las plataformas que no se sabe en cual de todas está. 
