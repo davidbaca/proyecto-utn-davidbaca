@@ -1,4 +1,4 @@
-# proyecto-utn-davidbaca - 
+# Proyecto PWA - UTN - 
 MoviesDB by David Baca
   
   Para este proyecto quise realizar una app sencilla que sea capaz de registrar nombres de películas y series,
